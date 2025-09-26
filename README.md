@@ -1,5 +1,5 @@
 # Trabajo_final  
 Integrantes del proyecto
-Manuela Rojas Bravo
-Mariana Chica Carvajal
-Juan David Restrepo Rodríguez
+1.Manuela Rojas Bravo
+2.Mariana Chica Carvajal
+3.Juan David Restrepo Rodríguez
