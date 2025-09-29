@@ -8,9 +8,9 @@
 **Descripción**  
 Somos un equipo que se destaca por combinar habilidades técnicas con competencias blandas. Nos enfocamos en mejorar continuamente, aprendiendo de cada etapa del proceso para lograr resultados sólidos y bien fundamentados.  
 
-**-> Manuela Rojas Mazo:** Estudiante de Ingeniería Industrial  
-**-> Mariana Chica Carvajal:**  Estudiante de Ingeniería Industrial  
-**-> Juan David Restrepo Rodríguez:**   Estudiante de Ingeniería Industrial    
+**-> Manuela Rojas Mazo:** Estudiante de Ingeniería Industrial destacada por las habilidades de programación y resolución de problemas.
+**-> Mariana Chica Carvajal:**  Estudiante de Ingeniería Industrial destacada por el buen trabajo en equipo, el análisis crítico, la resolución de problemas y la adaptabilidad.
+**-> Juan David Restrepo Rodríguez:**   Estudiante de Ingeniería Industrial destacado por las habilidades de liderazgo, el enfoque en la mejora continua y la resolución de problemas.
 
 **Cinema el paisita**  
 
