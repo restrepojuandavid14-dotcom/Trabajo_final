@@ -13,11 +13,11 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
 **-> Juan David Restrepo Rodríguez:**   Estudiante de Ingeniería Industrial destacado por las habilidades de liderazgo, el enfoque en la mejora continua y la resolución de problemas.  
 
 ## **Cibercinema**  
-   <img alt="I&S" height="135px" src="https://github.com/user-attachments/assets/83ee874b-7daf-494c-8d8b-82ca7e46a3b5">
+   <img alt="I&S" height="200px" src="https://github.com/user-attachments/assets/83ee874b-7daf-494c-8d8b-82ca7e46a3b5">
 
    <div>
     <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png">
-    <img alt="Attribution" height="200px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
+    <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
 </div> CC BY-NC-SA 4.0
