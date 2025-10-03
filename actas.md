@@ -46,7 +46,7 @@ Plazo: Versión preliminar Semana 8, versión final Semana 16.
 
 Criterio de Evaluación: Código funcional, legible y validado con pruebas.
 
-[Nombre 3] – Documentación y Requisitos
+Marian Carvajal Chica– Documentación y Requisitos
 
 Redactar la especificación de requisitos funcionales y no funcionales.
 
