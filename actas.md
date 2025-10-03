@@ -20,7 +20,7 @@
 * Manuela Rojas Mazo
 * Mariana Carvajal Chica
   
-Objetivo del acta
+## Objetivo del acta
 
 Asignar de manera clara y equitativa las tareas y compromisos de cada integrante del grupo, estableciendo plazos de cumplimiento y criterios de evaluación para el desarrollo del proyecto Cinema Universitario.
 
