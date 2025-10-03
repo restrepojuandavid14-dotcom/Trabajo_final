@@ -12,7 +12,7 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
 **-> Mariana Chica Carvajal:**  Estudiante de Ingeniería Industrial destacada por el buen trabajo en equipo, el análisis crítico, la resolución de problemas y la adaptabilidad.  
 **-> Juan David Restrepo Rodríguez:**   Estudiante de Ingeniería Industrial destacado por las habilidades de liderazgo, el enfoque en la mejora continua y la resolución de problemas.  
 
-## **CIBERCINEMA**  
+## **Cibercinema**  
 ![CIBERCINEMAPHOTO]()
 
 
