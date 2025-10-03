@@ -61,14 +61,4 @@ Mariana Carvajal Chica– Documentación y Requisitos
 * Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
 * No tomar decisiones sin previo consentimiento de todos los integrantes.
 * Respetar los aportes de los compañeros.
-## Firma de aceptación
-
-Con la firma de este documento, cada integrante del grupo manifiesta haber comprendido y aceptado sus responsabilidades dentro del proyecto.
-
-___________________________ 
-
-___________________________ 
-
-___________________________ 
-
 
