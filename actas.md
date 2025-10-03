@@ -29,10 +29,9 @@ Asignar de manera clara y equitativa las tareas y compromisos de cada integrante
 Juan David Restrepo Rodríguez – Líder de Proyecto 
 
 >* Crear y gestionar el repositorio en GitHub.
-
-Coordinar la integración del código.
-
-Verificar la correcta organización de los entregables.
+>* Coordinar la integración del código.
+>* Verificar la correcta organización de los entregables.
+>* Encargado del acta de responsabilidades.
 
 Plazo: Semana 8 (primer entregable) y Semana 16 (entregable final).
 
