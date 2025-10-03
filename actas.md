@@ -43,19 +43,15 @@ Manuela Rojas Mazo– Desarrolladora
 >* Insertar la imágen del cinema
 >* Crear la licencia del programa
 
-**Plazo: Viernes 10 de Octubre**
-**Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.
+**Plazo: Domingo 05 de Octubre (Acta de entendimiento) Viernes 10 de Octubre (Resto de actividades)**
+**Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.  
 Marian Carvajal Chica– Documentación y Requisitos
-
-Redactar la especificación de requisitos funcionales y no funcionales.
-
-Elaborar el manual de usuario.
-
-Apoyar en pruebas y validación del software.
-
-Plazo: Semana 8 (requisitos preliminares), Semana 16 (documentación final).
-
-Criterio de Evaluación: Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.
+>* Elaborar el acta de colaboración
+>* Apoyar en pruebas y validar de información 
+>* Redactar la especificación de requisitos
+>* Apoyo en el implemento del cronograma en un software
+**Plazo: Domingo 05 de Octubre (Acta de colaboración) Viernes 10 de Octubre (Resto de actividades)**
+**Criterio de Evaluación:** Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.
 
 ## Compromisos colectivos
 
