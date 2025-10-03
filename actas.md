@@ -9,10 +9,10 @@
 
 # Acta de Responsabilidad:  
 
-## Proyecto: Cinema Universitario Cibercinema
-## Curso: Algoritmia y Programación – 2025-2
-## Profesor: Julián Andrés Castillo
-## Fecha: 03/10/2025
+### Proyecto: Cinema Universitario Cibercinema
+### Curso: Algoritmia y Programación – 2025-2
+### Profesor: Julián Andrés Castillo
+### Fecha: 03/10/2025
 
 ## Integrantes del grupo
 
