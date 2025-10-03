@@ -24,11 +24,11 @@
 
 Asignar de manera clara y equitativa las tareas y compromisos de cada integrante del grupo, estableciendo plazos de cumplimiento y criterios de evaluación para el desarrollo del proyecto Cinema Universitario.
 
-Distribución de responsabilidades
+## Distribución de responsabilidades
 
-[Nombre 1] – Líder de Proyecto y Control de Versiones
+Juan David Restrepo Rodríguez – Líder de Proyecto 
 
-Crear y gestionar el repositorio en GitHub.
+>* Crear y gestionar el repositorio en GitHub.
 
 Coordinar la integración del código.
 
