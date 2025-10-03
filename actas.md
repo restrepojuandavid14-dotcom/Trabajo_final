@@ -32,20 +32,19 @@ Juan David Restrepo Rodríguez – Líder de Proyecto
 >* Coordinar la integración del código.
 >* Verificar la correcta organización del entregable 1.
 >* Encargado del acta de responsabilidades.
-
+>* Ayudar en el desarrollo del código en un futuro.
 **Plazo: Domingo 05 de Octubre**  
 **Criterio de Evaluación:** Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.
 
 
-Manuela Rojas Mazo– Desarrollo de la mayor parte del código
+Manuela Rojas Mazo– Desarrolladora
+>* Estará a cargo de la mayor parte del código del programa
+>* Desarrollar el acta de entendimiento
+>* Insertar la imágen del cinema
+>* Crear la licencia del programa
 
->* Implementar las funcionalidades principales en Python: registro de usuarios, reservas y cancelación.
->* Desarrollar el manejo de archivos CSV para exportación de datos.
-
-Plazo: Versión preliminar Semana 8, versión final Semana 16.
-
-Criterio de Evaluación: Código funcional, legible y validado con pruebas.
-
+**Plazo: Viernes 10 de Octubre**
+**Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.
 Marian Carvajal Chica– Documentación y Requisitos
 
 Redactar la especificación de requisitos funcionales y no funcionales.
@@ -63,7 +62,8 @@ Criterio de Evaluación: Claridad en la documentación, cumplimiento de formato 
 * Asistir puntualmente a las reuniones de seguimiento.
 * Mantener comunicación constante mediante whatsapp.
 * Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
-
+* No tomar decisiones sin previo consentimiento de todos los integrantes.
+* Respetar los aportes de los compañeros.
 ## Firma de aceptación
 
 Con la firma de este documento, cada integrante del grupo manifiesta haber comprendido y aceptado sus responsabilidades dentro del proyecto.
