@@ -37,11 +37,10 @@ Juan David Restrepo Rodríguez – Líder de Proyecto
 **Criterio de Evaluación:** Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.
 
 
-[Nombre 2] – Desarrollo y Algoritmos
+Manuela Rojas Mazo– Desarrollo de la mayor parte del código
 
-Implementar las funcionalidades principales en Python: registro de usuarios, reservas y cancelación.
-
-Desarrollar el manejo de archivos CSV para exportación de datos.
+>* Implementar las funcionalidades principales en Python: registro de usuarios, reservas y cancelación.
+>* Desarrollar el manejo de archivos CSV para exportación de datos.
 
 Plazo: Versión preliminar Semana 8, versión final Semana 16.
 
