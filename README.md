@@ -20,7 +20,7 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
     <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
     <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
     <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
-</div> CC BY-NC-SA 4.0
+</div> CC BY-NC-SA 4.0    
 
 
 
