@@ -61,7 +61,7 @@ Criterio de Evaluación: Claridad en la documentación, cumplimiento de formato 
 ## Compromisos colectivos
 
 * Asistir puntualmente a las reuniones de seguimiento.
-* Mantener comunicación constante mediante [indicar medio: WhatsApp, correo, etc.].
+* Mantener comunicación constante mediante whatsapp.
 * Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
 
 ## Firma de aceptación
