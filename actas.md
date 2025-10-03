@@ -58,22 +58,20 @@ Plazo: Semana 8 (requisitos preliminares), Semana 16 (documentación final).
 
 Criterio de Evaluación: Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.
 
-Compromisos colectivos
+## Compromisos colectivos
 
-Asistir puntualmente a las reuniones de seguimiento.
+* Asistir puntualmente a las reuniones de seguimiento.
+* Mantener comunicación constante mediante [indicar medio: WhatsApp, correo, etc.].
+* Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
 
-Mantener comunicación constante mediante [indicar medio: WhatsApp, correo, etc.].
-
-Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
-
-Firma de aceptación
+## Firma de aceptación
 
 Con la firma de este documento, cada integrante del grupo manifiesta haber comprendido y aceptado sus responsabilidades dentro del proyecto.
 
-___________________________ (Nombre 1 – Firma)
+___________________________ 
 
-___________________________ (Nombre 2 – Firma)
+___________________________ 
 
-___________________________ (Nombre 3 – Firma)
+___________________________ 
 
-¿Quieres que te lo prepare también en formato tabla (tipo matriz de responsabilidades) para que quede más organizado y fácil de presentar al profesor?
+
