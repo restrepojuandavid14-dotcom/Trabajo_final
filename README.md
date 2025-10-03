@@ -15,6 +15,14 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
 ## **Cibercinema**  
 ![WhatsApp Image 2025-09-29 at 10 22 39 PM](https://github.com/user-attachments/assets/83ee874b-7daf-494c-8d8b-82ca7e46a3b5)
 
+   <div>
+    <img alt="CC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/by.xlarge.png">
+    <img alt="Attribution" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/nc.xlarge.png">
+    <img alt="NC" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/sa.xlarge.png">
+    <img alt="SA" height="70px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
+</div> CC BY-NC-SA 4.0
+   
+Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional
 
 La Universidad de Antioquia planea crear un espacio cinematográfico también conocido como cinema, para ofrecer a la comunidad universitaria la capacidad de asistir a cine en las inmediaciones de la ciudadela universitaria los fines de semana. Con base en lo anterior se plantea apoyarse en los estudiantes de Ingeniería Industrial de la UdeA para crear el boceto del programa de consola en Python para poder gestionar usuarios, reservas, generar cobros, facturas, reportes y algo más. El programa debe permitir registrar usuarios, consultar la disponibilidad de películas para el próximo fin de semana (el docente entrega el listado de las películas), crear reservas, cancelar reservas, imprimir facturas, y mostrar el estado administrativo de los ingresos y del servicio de cine en la UdeA.  
 
