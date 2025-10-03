@@ -62,3 +62,19 @@ Mariana Carvajal Chica– Documentación y Requisitos
 * No tomar decisiones sin previo consentimiento de todos los integrantes.
 * Respetar los aportes de los compañeros.
 
+## Firmas
+* Juan David Restrepo Rodríguez
+
+
+
+  
+
+* Manuela Rojas Mazo
+
+
+
+
+  
+
+* Mariana Carvajal Chica
+
