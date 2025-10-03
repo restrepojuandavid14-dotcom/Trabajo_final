@@ -1,11 +1,11 @@
 # Trabajo_final  
 
-**Integrantes del proyecto**
+##**Integrantes del proyecto**
 1. Manuela Rojas 
 2. Mariana Carvajal Chica 
 3. Juan David Restrepo Rodríguez    
 
-**Descripción**  
+##**Descripción**  
 Somos un equipo que se destaca por combinar habilidades técnicas con competencias blandas. Nos enfocamos en mejorar continuamente, aprendiendo de cada etapa del proceso para lograr resultados sólidos y bien fundamentados.  
 
 **-> Manuela Rojas Mazo:** Estudiante de Ingeniería Industrial destacada por las habilidades de programación y resolución de problemas.  
