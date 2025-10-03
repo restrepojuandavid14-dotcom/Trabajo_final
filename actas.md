@@ -33,7 +33,7 @@ Juan David Restrepo Rodríguez – Líder de Proyecto
 >* Verificar la correcta organización de los entregables.
 >* Encargado del acta de responsabilidades.
 
-Plazo: Semana 8 (primer entregable) y Semana 16 (entregable final).
+Plazo: Domingo 05 de Octubre
 
 Criterio de Evaluación: Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.
 
