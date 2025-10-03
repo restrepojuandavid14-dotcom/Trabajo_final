@@ -31,8 +31,7 @@ Juan David Restrepo Rodríguez – Líder de Proyecto
 >* Crear y gestionar el repositorio en GitHub.
 >* Coordinar la integración del código.
 >* Verificar la correcta organización del entregable 1.
->* Encargado del acta de responsabilidades.
->* Ayudar en el desarrollo del código en un futuro.    
+>* Encargado del acta de responsabilidades.   
 
 **Plazo: Domingo 05 de Octubre (Acta de responsabilidades) Viernes 10 de Octubre (Resto de actividades)**  
 **Criterio de Evaluación:** Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.  
