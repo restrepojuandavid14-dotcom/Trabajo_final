@@ -44,7 +44,7 @@ Manuela Rojas Mazo– Desarrolladora
 >* Crear la licencia del programa
 
 **Plazo: Domingo 05 de Octubre (Acta de entendimiento) Viernes 10 de Octubre (Resto de actividades)**
-**Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.  
+**Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.    
 Marian Carvajal Chica– Documentación y Requisitos
 >* Elaborar el acta de colaboración
 >* Apoyar en pruebas y validar de información 
