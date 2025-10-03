@@ -64,7 +64,7 @@ Mariana Carvajal Chica– Documentación y Requisitos
 
 ## Firmas
 * Juan David Restrepo Rodríguez
-<img width="120" height="150" alt="image" src="https://github.com/user-attachments/assets/f891462f-62f8-4b01-be5e-ea0072cf7b87" />
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f891462f-62f8-4b01-be5e-ea0072cf7b87" />
 
 
 
