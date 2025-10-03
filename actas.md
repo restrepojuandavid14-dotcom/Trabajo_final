@@ -32,7 +32,7 @@ Juan David Restrepo Rodríguez – Líder de Proyecto
 >* Coordinar la integración del código.
 >* Verificar la correcta organización del entregable 1.
 >* Encargado del acta de responsabilidades.
->* Ayudar en el desarrollo del código en un futuro.
+>* Ayudar en el desarrollo del código en un futuro.  
 **Plazo: Domingo 05 de Octubre**  
 **Criterio de Evaluación:** Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.
 
@@ -41,7 +41,7 @@ Manuela Rojas Mazo– Desarrolladora
 >* Estará a cargo de la mayor parte del código del programa
 >* Desarrollar el acta de entendimiento
 >* Insertar la imágen del cinema
->* Crear la licencia del programa
+>* Crear la licencia del programa  
 
 **Plazo: Domingo 05 de Octubre (Acta de entendimiento) Viernes 10 de Octubre (Resto de actividades)**
 **Criterio de Evaluación:** Código funcional en un futuro, acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.    
@@ -49,9 +49,9 @@ Marian Carvajal Chica– Documentación y Requisitos
 >* Elaborar el acta de colaboración
 >* Apoyar en pruebas y validar de información 
 >* Redactar la especificación de requisitos
->* Apoyo en el implemento del cronograma en un software
+>* Apoyo en el implemento del cronograma en un software  
 **Plazo: Domingo 05 de Octubre (Acta de colaboración) Viernes 10 de Octubre (Resto de actividades)**
-**Criterio de Evaluación:** Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.
+**Criterio de Evaluación:** Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.  
 
 ## Compromisos colectivos
 
