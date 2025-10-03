@@ -7,4 +7,75 @@
 
 
 
-# Acta de Responsabilidad
+# Acta de Responsabilidad:  
+
+## Proyecto: Cinema Universitario Cibercinema
+## Curso: Algoritmia y Programación – 2025-2
+## Profesor: Julián Andrés Castillo
+## Fecha: 03/10/2025
+
+## Integrantes del grupo
+
+* Juan David Restrepo Rodríguez
+* Manuela Rojas Mazo
+* Mariana Carvajal Chica
+  
+Objetivo del acta
+
+Asignar de manera clara y equitativa las tareas y compromisos de cada integrante del grupo, estableciendo plazos de cumplimiento y criterios de evaluación para el desarrollo del proyecto Cinema Universitario.
+
+Distribución de responsabilidades
+
+[Nombre 1] – Líder de Proyecto y Control de Versiones
+
+Crear y gestionar el repositorio en GitHub.
+
+Coordinar la integración del código.
+
+Verificar la correcta organización de los entregables.
+
+Plazo: Semana 8 (primer entregable) y Semana 16 (entregable final).
+
+Criterio de Evaluación: Cumplimiento de los plazos, organización clara del repositorio y coordinación efectiva con el equipo.
+
+[Nombre 2] – Desarrollo y Algoritmos
+
+Implementar las funcionalidades principales en Python: registro de usuarios, reservas y cancelación.
+
+Desarrollar el manejo de archivos CSV para exportación de datos.
+
+Plazo: Versión preliminar Semana 8, versión final Semana 16.
+
+Criterio de Evaluación: Código funcional, legible y validado con pruebas.
+
+[Nombre 3] – Documentación y Requisitos
+
+Redactar la especificación de requisitos funcionales y no funcionales.
+
+Elaborar el manual de usuario.
+
+Apoyar en pruebas y validación del software.
+
+Plazo: Semana 8 (requisitos preliminares), Semana 16 (documentación final).
+
+Criterio de Evaluación: Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.
+
+Compromisos colectivos
+
+Asistir puntualmente a las reuniones de seguimiento.
+
+Mantener comunicación constante mediante [indicar medio: WhatsApp, correo, etc.].
+
+Cumplir con las fechas acordadas para evitar retrasos en el proyecto.
+
+Firma de aceptación
+
+Con la firma de este documento, cada integrante del grupo manifiesta haber comprendido y aceptado sus responsabilidades dentro del proyecto.
+
+___________________________ (Nombre 1 – Firma)
+
+___________________________ (Nombre 2 – Firma)
+
+___________________________ (Nombre 3 – Firma)
+
+¿Quieres que te lo prepare también en formato tabla (tipo matriz de responsabilidades) para que quede más organizado y fácil de presentar al profesor?
