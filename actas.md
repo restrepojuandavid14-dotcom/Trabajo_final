@@ -44,11 +44,13 @@ Manuela Rojas Mazo– Desarrolladora
 
 **Plazo: Domingo 05 de Octubre (Acta de entendimiento) Viernes 10 de Octubre (Resto de actividades)**  
 **Criterio de Evaluación:** Acta de entendimiento clara y que abarque todo lo solicitado,licencia correcta según acuerdo entre compañeros.      
+
 Mariana Carvajal Chica– Documentación y Requisitos
 >* Elaborar el acta de colaboración
 >* Apoyar en pruebas y validar de información 
 >* Redactar la especificación de requisitos
->* Apoyo en el implemento del cronograma en un software  
+>* Apoyo en el implemento del cronograma en un software
+
 **Plazo: Domingo 05 de Octubre (Acta de colaboración) Viernes 10 de Octubre (Resto de actividades)**  
 **Criterio de Evaluación:** Claridad en la documentación, cumplimiento de formato y aportes a las pruebas.  
 
