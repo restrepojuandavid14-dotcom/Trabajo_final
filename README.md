@@ -47,4 +47,11 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 > 3.   Cancelar reservas
 > 4.   Consultar funciones del fin de semana
 > 5.   Ofrecer espacio para el administrador
-> 6.   Ofrecer al usuario la salida
+> 6.   Ofrecer al usuario la salida del sitio
+* **No funcionales**
+> 1.   Usabilidad: El sistema debe tener un menú en consola claro y fácil de entender para cualquier usuario.
+> 2.   Rendimiento: Cada operación (registro, reserva, cancelación) debe responder en menos de 2 segundos.
+> 3.   Fiabilidad: Si el programa se cierra de forma inesperada, al volver a abrir debe conservar los datos guardados (en CSV).
+> 4. Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).
+
+> 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
