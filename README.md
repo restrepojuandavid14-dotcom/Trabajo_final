@@ -46,7 +46,8 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 > 2.   Registrar reservas.
 > 3.   Cancelar reservas.
 > 4.   Consultar funciones del fin de semana.
-> 5.   Ofrecer espacio para el administrador.
+> 5.   Permitir acceder al espacio de administrador a quien tenga usuario y contraseña
+de administración.
 > 6.   Ofrecer al usuario la salida del sitio.
 * **No funcionales**
 > 1.   Usabilidad: El sistema debe tener un menú en consola claro y fácil de entender para cualquier usuario.
