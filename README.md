@@ -42,9 +42,9 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 ## Especificación de requisitos
 * **Funcionales:**
 > El sistema debe:
-> 1.   Registrar al usuario.
+> 1.   Registrar al usuario con el tipo de vínculo con la UdeA.
 > 2.   Registrar reservas.
-> 3.   Cancelar reservas.
+> 3.   Permitir cancelar reservas únicamente si tiene algunas activas.
 > 4.   Permitir mostrar en orden de día, hora y nombre y sillas disponibles a los usuarios las
 películas programadas para el próximo fin de semana.
 > 5.   Permitir acceder al espacio de administrador a quien tenga usuario y contraseña
