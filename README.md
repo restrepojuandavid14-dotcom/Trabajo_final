@@ -1,7 +1,7 @@
 # Trabajo_final  
 
 ## **Integrantes del proyecto**
-1. Manuela Rojas 
+1. Manuela Rojas Mazo
 2. Mariana Carvajal Chica 
 3. Juan David Restrepo Rodríguez    
 
