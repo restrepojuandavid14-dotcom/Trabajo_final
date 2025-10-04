@@ -26,7 +26,7 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
 </div> CC BY-NC-SA 4.0  
 
 ## **Visión**  
-El CIBERCINEMA busca crear un espacio cultural y recreativo para los estudiantes de la Universidad de Antioquia, mediante una aplicación de consola que gestione usuarios, reservas y reportes administrativos de manera sencilla.
+CIBERCINEMA busca crear un espacio cultural y recreativo para los estudiantes de la Universidad de Antioquia, mediante una aplicación de consola que gestione usuarios, reservas y reportes administrativos de manera sencilla.
 
 ## **Objetivo principal:**  
 Ofrecer una herramienta práctica y educativa que simule la administración de un cine universitario.
