@@ -42,12 +42,12 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 ## Especificación de requisitos
 * **Funcionales:**
 > El sistema debe:
-> 1.   Registrar al usuario
-> 2.   Registrar reservas
-> 3.   Cancelar reservas
-> 4.   Consultar funciones del fin de semana
-> 5.   Ofrecer espacio para el administrador
-> 6.   Ofrecer al usuario la salida del sitio
+> 1.   Registrar al usuario.
+> 2.   Registrar reservas.
+> 3.   Cancelar reservas.
+> 4.   Consultar funciones del fin de semana.
+> 5.   Ofrecer espacio para el administrador.
+> 6.   Ofrecer al usuario la salida del sitio.
 * **No funcionales**
 > 1.   Usabilidad: El sistema debe tener un menú en consola claro y fácil de entender para cualquier usuario.
 > 2.   Rendimiento: Cada operación (registro, reserva, cancelación) debe responder en menos de 2 segundos.
