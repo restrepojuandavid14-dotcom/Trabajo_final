@@ -40,4 +40,12 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 3. Aportar a la vida universitaria un proyecto que fomente la cultura cinematográfica.
 
 ## Especificación de requisitos
-* Funcionales
+* **Funcionales:**
+>* El sistema debe mostrar el nombre y un mensaje de bienvenida al usurario
+>* El sistema debe:
+>* 1.   Registrar al usuario
+>* 2.   Registrar reservas
+>* 3.   Cancelar reservas
+>* 4.   Consultar funciones del fin de semana
+>* 5.   Ofrecer espacio para el administrador
+>* 6.   Ofrecer al usuario la salida
