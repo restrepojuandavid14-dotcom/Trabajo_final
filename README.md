@@ -41,8 +41,7 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 
 ## Especificación de requisitos
 * **Funcionales:**
->* El sistema debe mostrar el nombre y un mensaje de bienvenida al usurario
->* El sistema debe:
+> El sistema debe:
 > 1.   Registrar al usuario
 > 2.   Registrar reservas
 > 3.   Cancelar reservas
