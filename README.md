@@ -37,4 +37,7 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 
 2. Desarrollar habilidades en trabajo colaborativo y uso de GitHub.  
 
-3. Aportar a la vida universitaria un proyecto que fomente la cultura cinematográfica.  
+3. Aportar a la vida universitaria un proyecto que fomente la cultura cinematográfica.
+
+## Especificación de requisitos
+* Funcionales
