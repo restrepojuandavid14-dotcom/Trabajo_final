@@ -45,7 +45,8 @@ Ofrecer una herramienta práctica y educativa que simule la administración de u
 > 1.   Registrar al usuario.
 > 2.   Registrar reservas.
 > 3.   Cancelar reservas.
-> 4.   Consultar funciones del fin de semana.
+> 4.   Permitir mostrar en orden de día, hora y nombre y sillas disponibles a los usuarios las
+películas programadas para el próximo fin de semana.
 > 5.   Permitir acceder al espacio de administrador a quien tenga usuario y contraseña
 de administración.
 > 6.   Ofrecer al usuario la salida del sitio.
