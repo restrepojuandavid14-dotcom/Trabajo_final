@@ -28,6 +28,15 @@ Detallar los objetivos comunes del grupo y las expectativas de cada miembro resp
 >* Crear Cibercinema como la herramienta ótpima de la Universidad de Antioquia que permita gestionar los usuarios que quieran acceder a la platafoma, ver la disponibilidad del cinema, visualizar y modificar las reservas de películas, generar cobros, ver el informe financiero e imprimir las facturas.
 >* Mejorar la experiencia de los estudiantes con una interfaz agradable y creativa.
 
+## Firmas
+* Juan David Restrepo Rodríguez
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f891462f-62f8-4b01-be5e-ea0072cf7b87" />
+
+
+* Manuela Rojas Mazo
+
+
+* Mariana Carvajal Chica
 
 
 # Acta de colaboración: 
