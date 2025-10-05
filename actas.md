@@ -1,8 +1,38 @@
 # Acta de entendimiento
 
 
+### Proyecto: Cinema Universitario Cibercinema
+### Curso: Algoritmia y Programación  2025-2
+### Profesor: Julián Andrés Castillo
+### Fecha: 04/10/2025
+
+## Integrantes del grupo
+
+* Juan David Restrepo Rodríguez
+* Manuela Rojas Mazo
+* Mariana Carvajal Chica
+  
+## Objetivo del acta
+
+Detallar los objetivos comunes del grupo y las expectativas de cada miembro respecto al proyecto.
+
+## Expectativas
+
+>* Que Cibercinema sea un software estable y eficiente.
+>* Que la plataforma sea entendible y fácil de usar.
+>* Que tenga un buen impacto en la comunidad universitaria.
+>* Que sirva de modelo para futuros proyectos de programación.
+
+## Objetivos
+
+>* Crear Cibercinema como la herramienta ótpima de la Universidad de Antioquia que permita gestionar los usuarios que quieran acceder a la platafoma, ver la disponibilidad del cinema, visualizar y modificar las reservas de películas, generar cobros, ver el informe financiero e imprimir las facturas.
+>* Mejorar la experiencia de los estudiantes con una interfaz agradable y creativa.
+
+
 
 # Acta de colaboración
+
+
 
 
 
