@@ -30,7 +30,7 @@ Detallar los objetivos comunes del grupo y las expectativas de cada miembro resp
 
 ## Firmas
 * Juan David Restrepo Rodríguez
-* 
+
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/f891462f-62f8-4b01-be5e-ea0072cf7b87" />
 
 * Manuela Rojas Mazo
