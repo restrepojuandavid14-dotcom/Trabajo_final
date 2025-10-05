@@ -34,9 +34,13 @@ Detallar los objetivos comunes del grupo y las expectativas de cada miembro resp
 
 
 * Manuela Rojas Mazo
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/1a8eebd6-82d7-4760-8571-32299b30881b" />
+
 
 
 * Mariana Carvajal Chica
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/03d7cc83-e5c4-4c7f-8a15-7ef0a900d26a" />
+
 
 
 # Acta de colaboración: 
