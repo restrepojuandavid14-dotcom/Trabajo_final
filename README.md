@@ -56,3 +56,5 @@ de administración.
 > 3.   Fiabilidad: Si el programa se cierra de forma inesperada, al volver a abrir debe conservar los datos guardados (en CSV).
 > 4. Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).
 > 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
+
+**Presupuesto del proyecto**
