@@ -1,18 +1,18 @@
 # Trabajo_final  
 
-## **Integrantes del proyecto**
+## Integrantes del proyecto
 1. Manuela Rojas Mazo
 2. Mariana Carvajal Chica 
 3. Juan David Restrepo Rodríguez    
 
-## **Descripción**  
+## Descripción  
 Somos un equipo que se destaca por combinar habilidades técnicas con competencias blandas. Nos enfocamos en mejorar continuamente, aprendiendo de cada etapa del proceso para lograr resultados sólidos y bien fundamentados.  
 
 **-> Manuela Rojas Mazo:** Estudiante de Ingeniería Industrial destacada por las habilidades de programación y resolución de problemas.  
 **-> Mariana Chica Carvajal:**  Estudiante de Ingeniería Industrial destacada por el buen trabajo en equipo, el análisis crítico, la resolución de problemas y la adaptabilidad.  
 **-> Juan David Restrepo Rodríguez:**   Estudiante de Ingeniería Industrial destacado por las habilidades de liderazgo, el enfoque en la mejora continua y la resolución de problemas.  
 
-## **Cibercinema**  
+## Cibercinema
    <img alt="I&S" height="200px" src="https://github.com/user-attachments/assets/83ee874b-7daf-494c-8d8b-82ca7e46a3b5">
 
 
@@ -25,13 +25,13 @@ Somos un equipo que se destaca por combinar habilidades técnicas con competenci
     <img alt="SA" height="60px" src="https://raw.githubusercontent.com/juliancastillo-udea/2024-1-ProgramacionPosgrados/main/images/cc-icons.png">
 </div> CC BY-NC-SA 4.0  
 
-## **Visión**  
+## Visión
 Cibercinema busca crear un espacio cultural y recreativo para los estudiantes de la Universidad de Antioquia, mediante una aplicación de consola que gestione usuarios, reservas y reportes administrativos de manera sencilla.
 
-## **Objetivo principal:**  
+## Objetivo principal:  
 Ofrecer una herramienta práctica y educativa que simule la administración de un cine universitario.
 
-## **Beneficios:**  
+## Beneficios:
 
 1. Permitir a los estudiantes aplicar conceptos de programación orientada a objetos en un caso real.  
 
@@ -57,4 +57,4 @@ de administración.
 > 4. Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).
 > 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
 
-**Presupuesto del proyecto**
+## Presupuesto del proyecto
