@@ -56,5 +56,9 @@ de administración.
 > 3.   Fiabilidad: Si el programa se cierra de forma inesperada, al volver a abrir debe conservar los datos guardados (en CSV).
 > 4. Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).
 > 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
+## Diagrama de Gantt
+   <img alt="I&S" height="200px" src="https://github.com/user-attachments/assets/6e2282f4-2244-4718-9044-06480e5d612c">
+
 
 ## Presupuesto del proyecto
+El equipo dedicará un total de 200 horas
