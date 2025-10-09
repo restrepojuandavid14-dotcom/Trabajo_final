@@ -57,7 +57,7 @@ de administración.
 > 4. Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).
 > 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
 ## Diagrama de Gantt
-   <img alt="I&S" height="1000px" src="https://github.com/user-attachments/assets/6e2282f4-2244-4718-9044-06480e5d612c">
+   <img alt="I&S" height="4000px" src="https://github.com/user-attachments/assets/6e2282f4-2244-4718-9044-06480e5d612c">
 
 
 ## Presupuesto del proyecto
