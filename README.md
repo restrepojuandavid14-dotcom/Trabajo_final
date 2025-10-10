@@ -62,19 +62,19 @@ de administración.
 
 ## Presupuesto del proyecto
 
-**1. Manuela Rojas Mazo:**
+**Manuela Rojas Mazo**
 
 Valor hora: $7.115
 
 Inversión de tiempo (50 horas): $355.750
 
-**2. Mariana Carvajal Chica:**
+**Mariana Carvajal Chica**
 
 Valor hora: $7.115
 
 Inversión de tiempo (50 horas): $355.750
 
-**3. Juan David Restrepo Rodríguez :**   
+**Juan David Restrepo Rodríguez**   
 
 Valor hora: $7.115
 
