@@ -62,7 +62,7 @@ de administración.
 
 ## Presupuesto del proyecto
 
-Valor hora: $7.115
+**->Valor hora: $7.115**
 
 
 **Manuela Rojas Mazo**
@@ -84,5 +84,5 @@ Inversión semanal (5 horas): $35.575
 Inversión total (16 semanas): $569.200
 
 
-**Valor final: $1'707.600**
+**->Valor final: $1'707.600**
 
