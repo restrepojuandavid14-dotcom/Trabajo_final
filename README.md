@@ -61,8 +61,16 @@ de administración.
 
 
 ## Presupuesto del proyecto
-El equipo dedicará un total de 200 horas
 
-**-> Valor hora:** $7.115
+**1. Manuela Rojas Mazo:**
+Valor hora: $7.115
+Inversión de tiempo (50 horas): $355.750
 
-**-> Inversión total:** $7.115 * 200 = $1'423.000
+**2. Mariana Carvajal Chica:**
+Valor hora: $7.115
+Inversión de tiempo (50 horas): $355.750
+
+**3. Juan David Restrepo Rodríguez :**   
+Valor hora: $7.115
+Inversión de tiempo (50 horas): $355.750
+
