@@ -68,16 +68,19 @@ de administración.
 **Manuela Rojas Mazo**
 
    Inversión semanal (5 horas): $35.575.
+   
    Inversión total (16 semanas): $569.200.
 
 **Mariana Carvajal Chica**
 
    Inversión semanal (5 horas): $35.575.
+   
    Inversión total (16 semanas): $569.200.
 
 **Juan David Restrepo Rodríguez**   
 
    Inversión semanal (5 horas): $35.575.
+   
    Inversión total (16 semanas): $569.200.
    
 
