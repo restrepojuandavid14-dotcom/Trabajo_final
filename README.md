@@ -62,3 +62,7 @@ de administración.
 
 ## Presupuesto del proyecto
 El equipo dedicará un total de 200 horas
+
+**-> Valor hora:** $7.115
+
+**-> Inversión total:** $7.115 * 200 = $1'423.000
