@@ -87,17 +87,11 @@ def actualizar_csv(nombre_archivo):
 
 # **Funciones**
 
-**- menu_a():**
+** menu_a():** retorna el texto del menú administrativo con 8 opciones (estadísticas, reportes y cerrar sesión).
 
-Retorna el texto del menú administrativo con 8 opciones (estadísticas, reportes y cerrar sesión).
+**validar_admin():** solicita usuario y contraseña, verificando que coincidan con los datos del diccionario DictAdmin. Repite hasta que las credenciales sean correctas.
 
-**validar_admin():**
-
-Solicita usuario y contraseña, verificando que coincidan con los datos del diccionario DictAdmin. Repite hasta que las credenciales sean correctas.
-
-**menu_p():**
-
-Retorna el texto del menú principal del sistema con 6 opciones (registro, reservas, consultas y salir).
+**menu_p():** retorna el texto del menú principal del sistema con 6 opciones (registro, reservas, consultas y salir).
 
 **crear_cinema():**
 
