@@ -1,9 +1,6 @@
-[src.md](https://github.com/user-attachments/files/23842200/src.md)
-#**Cibercinema UdeA**
+# **Cibercinema UdeA**
 
-
-#**Integrantes**
-
+# **Integrantes**
 
 
 *   Manuela Rojas Mazo
@@ -11,12 +8,7 @@
 *   Juan David Restrepo Rodríguez
 
 
-
-
-
-
-
-#**Librerías**
+# **Librerías**
 
 Solo se utilizó una librería para el control del tiempo real en el que compra el usuario.
 
@@ -25,7 +17,7 @@ Solo se utilizó una librería para el control del tiempo real en el que compra 
 import datetime
 ```
 
-#**Almacenamiento de datos**
+# **Almacenamiento de datos**
 
 
 Para el almacenamiento de los datos se utilizaron listas y diccionarios. Estos últimos estructuraban los datos de manera más organizada, facilitanto así, la llamada de las llaves y valores en diferentes funciones. El primer diccionario "registrar_user" guarda información del usuario cada que hace un registro, los datos que guarda son el documento,el nombre, apellido y vínculo con la universidad de Antioquia.El segundo diccionario es "registrar_reserva" que guarda el documento y los asientos reservados por fila y columna."Precios" es un diccionario que establece el precio  de cada tipo de vinculo.También tenemos una lista con cada uno de los vínculos Por último tenemos el diccionario de los administradores que guarda un usuario y clave predeterminado y es de uso exclusivo.
@@ -55,7 +47,7 @@ DictAdmin = {
 vinculo = ['Estudiante','Docente','Administrativo','Oficial interno','Publico Externo']
 ```
 
-#**CSV**
+# **CSV**
 
 
 Se crea el nombre del archivo csv donde se guardan los datos principales de cada usuario.
