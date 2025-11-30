@@ -87,79 +87,65 @@ def actualizar_csv(nombre_archivo):
 
 # **Funciones**
 
-** menu_a():** retorna el texto del menú administrativo con 8 opciones (estadísticas, reportes y cerrar sesión).
+1.  **`menu_a()`**\
+   Retorna el texto del menú administrativo con 8 opciones (estadísticas, reportes y cerrar sesión).
 
-**validar_admin():** solicita usuario y contraseña, verificando que coincidan con los datos del diccionario DictAdmin. Repite hasta que las credenciales sean correctas.
+2.  **`validar_admin()`**\
+   Solicita usuario y contraseña, verificando que coincidan con los datos del diccionario DictAdmin. Repite hasta que las credenciales sean correctas.
 
-**menu_p():** retorna el texto del menú principal del sistema con 6 opciones (registro, reservas, consultas y salir).
+3.  **`menu_p()`**\
+   Retorna el texto del menú principal del sistema con 6 opciones (registro, reservas, consultas y salir).
 
-**crear_cinema():**
+4.  **`crear_cinema()`**\
+    Crea una matriz de 11x11 llena de 'O' que representa la sala de cine con todos los asientos disponibles.
 
-Crea una matriz de 11x11 llena de 'O' que representa la sala de cine con todos los asientos disponibles.
+5.  **`imprimir_sala_cine()`**\
+    Muestra visualmente la disposición de la sala de cine con letras A-K para identificar filas y columnas, indicando asientos disponibles (O) y ocupados (X).
 
-**imprimir_sala_cine():**
+6.  **`guardar_reserva()`**\
+    Marca un asiento como ocupado ('X') en la matriz, convirtiendo las letras de fila/columna en índices y guardando la reserva en el diccionario.
 
-Muestra visualmente la disposición de la sala de cine con letras A-K para identificar filas y columnas, indicando asientos disponibles (O) y ocupados (X).
+7.  **`factura()`**\
+    Genera e imprime la factura completa del usuario con sus datos, asientos reservados, precio según vínculo y total a pagar.
 
-**guardar_reserva():**
+8.  **`validar_numero()`**\
+    Solicita y valida que un número de documento tenga solo dígitos y longitud entre 3 y 15 caracteres.
 
-Marca un asiento como ocupado ('X') en la matriz, convirtiendo las letras de fila/columna en índices y guardando la reserva en el diccionario.
+9.  **`validar_string()`**\
+    Solicita y valida que una cadena tenga al menos 3 caracteres y no contenga números.
 
-**factura():**
+10. **`validar_documento()`**\
+    Verifica si un documento ya existe en el diccionario registrar_user, retornando True o False.
 
-Genera e imprime la factura completa del usuario con sus datos, asientos reservados, precio según vínculo y total a pagar.
+11. **`registrar_usuario()`**\
+    Agrega un dato (nombre, apellido o vínculo) a la lista de información del usuario en el diccionario.
 
-**validar_numero():**
+12. **`cancelar_reserva()`**\
+    Libera un asiento reservado, marcándolo como disponible ('O') y eliminándolo del registro de reservas del usuario.
 
-Solicita y valida que un número de documento tenga solo dígitos y longitud entre 3 y 15 caracteres.
+13. **`total_reservas_registradas()`**\
+    Cuenta y retorna el número total de asientos reservados por todos los usuarios.
 
-**validar_string():**
+14. **`total_tiquetes_vendidos()`**\
+    Calcula el total de tiquetes vendidos (equivalente al total de reservas).
 
-Solicita y valida que una cadena tenga al menos 3 caracteres y no contenga números.
+15. **`total_reservas_realizadas()`**\
+    Retorna la cantidad de usuarios que han hecho al menos una reserva.
 
-**validar_documento():**
+16. **`total_pago_realizado()`**\
+    Calcula el monto total generado multiplicando las reservas de cada usuario por su precio según vínculo.
 
-Verifica si un documento ya existe en el diccionario registrar_user, retornando True o False.
+17. **`promedio_ventas_diario()`**\
+    Calcula el promedio de tiquetes vendidos por usuario que tiene reservas activas.
 
-**registrar_usuario():**
+18. **`lista_usuarios()`**\
+    Imprime en pantalla todos los usuarios registrados con su documento, nombre completo y tipo de vínculo.
 
-Agrega un dato (nombre, apellido o vínculo) a la lista de información del usuario en el diccionario.
+19. **`reservasMayMen()`**\
+    Identifica y muestra qué usuario tiene la mayor cantidad de reservas y cuál tiene la menor cantidad.
 
-**cancelar_reserva(lista_asiento, cinema, doc):**
-
-Libera un asiento reservado, marcándolo como disponible ('O') y eliminándolo del registro de reservas del usuario.
-
-**total_reservas_registradas():**
-
-Cuenta y retorna el número total de asientos reservados por todos los usuarios.
-
-**total_tiquetes_vendidos():**
-
-Calcula el total de tiquetes vendidos (equivalente al total de reservas).
-
-**total_reservas_realizadas():**
-
-Retorna la cantidad de usuarios que han hecho al menos una reserva.
-
-**total_pago_realizado():**
-
-Calcula el monto total generado multiplicando las reservas de cada usuario por su precio según vínculo.
-
-**promedio_ventas_diario():**
-
-Calcula el promedio de tiquetes vendidos por usuario que tiene reservas activas.
-
-**lista_usuarios():**
-
-Imprime en pantalla todos los usuarios registrados con su documento, nombre completo y tipo de vínculo.
-
-**reservasMayMen():**
-
-Identifica y muestra qué usuario tiene la mayor cantidad de reservas y cuál tiene la menor cantidad.
-
-**imprimir_cartelera():**
-
-Despliega la cartelera del fin de semana con las 9 funciones programadas, mostrando 3 películas con sus horarios de viernes, sábado y domingo.
+20. **`imprimir_cartelera()`**\
+    Despliega la cartelera del fin de semana con las 9 funciones programadas, mostrando 3 películas con sus horarios de viernes, sábado y domingo.
 
 
 ```python
