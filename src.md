@@ -87,7 +87,7 @@ def actualizar_csv(nombre_archivo):
 
 # **Funciones**
 
-**menu_a():**
+**- menu_a():**
 
 Retorna el texto del menú administrativo con 8 opciones (estadísticas, reportes y cerrar sesión).
 
