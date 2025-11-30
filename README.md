@@ -60,30 +60,51 @@ de administración.
    <img alt="I&S" height="4000px" src="https://github.com/user-attachments/assets/00ceb6f4-0781-44b3-85ac-51664508b6c4">
 Evolución del Proyecto (Control de Versiones)
 
-##Plan de versionado
-El proyecto utiliza versionado semántico (SemVer):
-MAJOR.MINOR.PATCH
+# Plan de Versionado 
 
-📌 Versiones históricas reales del proyecto
-v0.1.0 – Prototipo inicial
+El trabajo evolucionó en varias fases, cada una siendo bastante significativa.
 
-Menú principal sin funciones.
+---
 
-v1.0.0 – Modularización completa
+## **Versión 1.0 – Menú inicial sin funciones**
+- Implementación del menú principal en un solo bloque `while`.
+- Toda la lógica estaba escrita de forma secuencial.
+- No existía separación de responsabilidades.
 
-Todas las opciones del menú se transforman en funciones.
+---
 
-v1.1.0 – Nueva función de guardado en CSV
+## **Versión 1.1 – Modularización inicial**
+- Se creó una función para el menú principal: `menu_p()`.
+- Primera reorganización del código para mejorar la lectura y pruebas.
+- Se mantuvo la lógica principal dentro de un solo archivo.
 
-Se crea una función adicional para almacenar información (usuarios, reservas) en archivos CSV.
+---
 
-Implementada justo antes de la entrega del proyecto.
+## **Versión 1.2 – Conversión de cada opción a funciones**
+- Cada opción del menú se convirtió en una función correcta e independiente.
+- Lógica separada:
+  - registrar usuario  
+  - registrar reserva  
+  - cancelar reserva  
+  - consultar funciones  
+- Esto mejoró la reutilización y el mantenimiento del código.
 
-v1.1.1 a v1.1.4 – Correcciones finales
+---
 
-Cuatro errores corregidos antes de entregar el proyecto.
+## **Versión 1.3 – Corrección de errores previos a la entrega**
+Se resolvieron cuatro errores detectados en pruebas:
+- Validación incorrecta de entradas.
+- Duplicación de registros en reservas.
+- Problemas al cancelar reservas.
+- Ajustes en los diccionarios internos.
 
-v1.1.4 es la versión entregada oficialmente.
+---
+
+## **Versión 1.4 – Función para guardar en CSV**
+- Se añadió una nueva función: `guardar_csv()`.
+- Se creó la función para escribir los diccionarios de usuarios y reservas en un archivo `.csv`.
+- Esta mejora permitió persistencia de datos entre ejecuciones.
+
 
 ## Presupuesto del proyecto
 
