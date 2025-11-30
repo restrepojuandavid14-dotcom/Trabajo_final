@@ -58,7 +58,32 @@ de administración.
 > 5. Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.
 ## Diagrama de Gantt
    <img alt="I&S" height="4000px" src="https://github.com/user-attachments/assets/00ceb6f4-0781-44b3-85ac-51664508b6c4">
+Evolución del Proyecto (Control de Versiones)
 
+##Plan de versionado
+El proyecto utiliza versionado semántico (SemVer):
+MAJOR.MINOR.PATCH
+
+📌 Versiones históricas reales del proyecto
+v0.1.0 – Prototipo inicial
+
+Menú principal sin funciones.
+
+v1.0.0 – Modularización completa
+
+Todas las opciones del menú se transforman en funciones.
+
+v1.1.0 – Nueva función de guardado en CSV
+
+Se crea una función adicional para almacenar información (usuarios, reservas) en archivos CSV.
+
+Implementada justo antes de la entrega del proyecto.
+
+v1.1.1 a v1.1.4 – Correcciones finales
+
+Cuatro errores corregidos antes de entregar el proyecto.
+
+v1.1.4 es la versión entregada oficialmente.
 
 ## Presupuesto del proyecto
 
