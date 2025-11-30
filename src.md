@@ -147,6 +147,10 @@ def actualizar_csv(nombre_archivo):
 20. **`imprimir_cartelera()`**\
     Despliega la cartelera del fin de semana con las 9 funciones programadas, mostrando 3 películas con sus horarios de viernes, sábado y domingo.
 
+21. **`actualizar_csv(nombre_archivo)`**\
+    Actualiza el archivo CSV con los datos de usuarios y sus reservas.
+
+
 
 ```python
 
