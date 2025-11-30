@@ -66,45 +66,36 @@ El trabajo evolucionó en varias fases, cada una siendo bastante significativa.
 
 ---
 
-## **Versión 1.0 – Menú inicial sin funciones**
-- Implementación del menú principal en un solo bloque `while`.
-- Toda la lógica estaba escrita de forma secuencial.
-- No existía separación de responsabilidades.
+## **Versión 1.0.0 – Menú inicial sin funciones**
+- Implementación del menú principal con el loop `while`.
+- Uso de `match-case` para separar las opciones del menú.
+- Creación de todas las funcionalidades del cine de forma secuencial por medio de diccionarios, listas, sentendencias de decisión, etc.
+- Se finalizó la primera versión funcional completa que cumplía con los requisitos establecidos, pero con poca modularidad.
 
 ---
 
-## **Versión 1.1 – Modularización inicial**
-- Se creó una función para el menú principal: `menu_p()`.
-- Primera reorganización del código para mejorar la lectura y pruebas.
-- Se mantuvo la lógica principal dentro de un solo archivo.
+## **Versión 1.1.0 – Modularización**
+- Creación de funciones independientes para cada parte del menú.
+- Validación de las entradas: números, cadenas de texto, longitudes.
+- Reorganización estructual del código para hacerlo más legible y fácil de probar.
+- Se redujo el código duplicado.
+
+---
+## **Versión 1.2.0 – Base de datos en CSV**
+- Se crea la función `actualizar_csv(nombre_archivo)` para guardar la información de las reservas en el archivo CSV.
+- Introducción exitosa dentro del flujo del programa.
+- Primera versión que mantiene la información entre las ejecuciones. 
 
 ---
 
-## **Versión 1.2 – Conversión de cada opción a funciones**
-- Cada opción del menú se convirtió en una función correcta e independiente.
-- Lógica separada:
-  - registrar usuario  
-  - registrar reserva  
-  - cancelar reserva  
-  - consultar funciones  
-- Esto mejoró la reutilización y el mantenimiento del código.
+## **Versión 1.2.1 – Corrección de errores previos a la entrega**
+Se resolvieron cuatro errores detectados en las últimas pruebas:
+- Error al actualizar la matriz de la función `guardar_reserva(lista_asiento, cinema)` en consola.
+- Duplicación de registros de las reservas en el archivo CSV.
+- Problemas al cancelar reservas (no eliminaba correctamente o no actualizaba el archivo).
+- Error visual en el letrero de Bienvenida.
 
 ---
-
-## **Versión 1.3 – Corrección de errores previos a la entrega**
-Se resolvieron cuatro errores detectados en pruebas:
-- Validación incorrecta de entradas.
-- Duplicación de registros en reservas.
-- Problemas al cancelar reservas.
-- Ajustes en los diccionarios internos.
-
----
-
-## **Versión 1.4 – Función para guardar en CSV**
-- Se añadió una nueva función: `guardar_csv()`.
-- Se creó la función para escribir los diccionarios de usuarios y reservas en un archivo `.csv`.
-- Esta mejora permitió persistencia de datos entre ejecuciones.
-
 
 ## Presupuesto del proyecto
 
