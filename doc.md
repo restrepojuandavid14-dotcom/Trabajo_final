@@ -72,7 +72,7 @@ Permite registrar los datos de un usuario nuevo.
 3.4	Consultar funciones del fin de semana  
 
 *	Seleccionar la opción 4 del menú.  
-*		El sistema arrojará el encabezado FUNCIONES FIN DE SEMANA.  
+*	El sistema arrojará el encabezado FUNCIONES FIN DE SEMANA.  
 *	Se muestran todas las funciones programadas y el número de películas disponibles en la cartelera.  
 *	Se enumeran las películas que están disponibles para el fin de semana.   
 *	Se muestra una tabla que incluye el IdPelicula, el día, la hora y la película.  
