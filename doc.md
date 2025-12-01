@@ -96,7 +96,7 @@ Permite registrar los datos de un usuario nuevo.
 -	Cerrar sesión  
 
 *	El administrador puede elegir cualquier opción para revisar la información interna del sistema.   
-*Cuando el administrador elija una de las opciones y posteriormente decida cerrar sesión, regresará inmediatamente al menú principal para realizar otras acciones.   
+* Cuando el administrador elija una de las opciones y posteriormente decida cerrar sesión, regresará inmediatamente al menú principal para realizar otras acciones.   
   
 3.6	Salir   
 
