@@ -23,6 +23,7 @@ Cibercinema UdeA consiste en la creación de un cine universitario accesible a d
 
 **2.	Especificación de requisitos:**    
    **Funcionales:**     
+   
 El sistema debe:   
 a.	Registrar al usuario con el tipo de vínculo con la UdeA.  
 b.	Registrar reservas.   
@@ -32,11 +33,13 @@ e.	Permitir acceder al espacio de administrador a quien tenga usuario y contrase
 f.	Ofrecer al usuario la salida del sitio.  
 
 **No funcionales:**  
+
 a.	Usabilidad: El sistema debe tener un menú en consola claro y fácil de entender para cualquier usuario.   
 b.	Rendimiento: Cada operación (registro, reserva, cancelación) debe responder en menos de 2 segundos.   
 c.	Fiabilidad: Si el programa se cierra de forma inesperada, al volver a abrir debe conservar los datos guardados (en CSV).   
 d.	Portabilidad: El programa debe ejecutarse en cualquier computadora con Python 3 instalado (Windows, Linux o Mac).   
 e.	Seguridad: Solo el administrador con usuario y contraseña puede acceder al módulo de reportes.   
+
 **3.	Opciones del sistema**    
 3.1	Registrar usuario   
 Permite registrar los datos de un usuario nuevo.   
