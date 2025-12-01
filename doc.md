@@ -22,7 +22,7 @@
 Cibercinema UdeA consiste en la creación de un cine universitario accesible a diversos públicos, con precios diferenciados según el tipo de vínculo con la universidad. El objetivo es desarrollar un programa en Python que permita: registrar usuarios, gestionar reservas y cancelarlas, generar facturas personalizadas y almacenar toda la información relevante en un archivo CSV. El cine contará con 121 asientos, y el programa informará a los usuarios sobre la disponibilidad de estos al momento de realizar una reserva.   
 
 **2.	Especificación de requisitos:**    
-	• 	Funcionales:   
+   **Funcionales:**     
 El sistema debe:   
 a.	Registrar al usuario con el tipo de vínculo con la UdeA.  
 b.	Registrar reservas.   
@@ -31,7 +31,7 @@ d.	Permitir mostrar en orden de día, hora y nombre y sillas disponibles a los u
 e.	Permitir acceder al espacio de administrador a quien tenga usuario y contraseña de administración.   
 f.	Ofrecer al usuario la salida del sitio.  
 
-No funcionales   
+**No funcionales:**  
 a.	Usabilidad: El sistema debe tener un menú en consola claro y fácil de entender para cualquier usuario.   
 b.	Rendimiento: Cada operación (registro, reserva, cancelación) debe responder en menos de 2 segundos.   
 c.	Fiabilidad: Si el programa se cierra de forma inesperada, al volver a abrir debe conservar los datos guardados (en CSV).   
